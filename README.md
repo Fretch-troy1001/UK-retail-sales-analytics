@@ -11,7 +11,7 @@ We are data analysts hired by the management of a UK-based online retail store. 
 **Mission**  
 Our job is to turn this broad goal into specific, answerable questions and use the data to answer them. This process is the heart of Exploratory Data Analysis (EDA).
 
-![Dashboard Preview](images/Uk_retail.gif)
+![Dashboard Preview](image/Uk_retail.gif)
 
 ## Project Goal
 
